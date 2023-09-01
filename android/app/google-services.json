@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97768582876",
+    "project_id": "finance-ghid",
+    "storage_bucket": "finance-ghid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97768582876:android:e8faceefa8a9c30ebbce19",
+        "android_client_info": {
+          "package_name": "com.example.finance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97768582876-qfkhodqiss06imh2c3kvm6gro63v840n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcgvX5eQYDBQIpabeshTB1wIJqZ1uCAFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97768582876-qfkhodqiss06imh2c3kvm6gro63v840n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
